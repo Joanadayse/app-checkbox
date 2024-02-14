@@ -1,0 +1,7 @@
+{
+  "name": "app-checkbox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
